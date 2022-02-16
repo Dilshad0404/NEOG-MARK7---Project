@@ -1,0 +1,34 @@
+@media (min-width:0px) and (max-width:1102px){
+    footer {
+        font-size: 15px;
+        text-align: center;
+        height: 12vh;
+        
+    }footer p{
+        display: flex;
+        text-align: center;
+    }
+    
+}
+
+
+@media (min-width:0px) and (max-width:470px){
+    textarea{
+        width: 75%;
+    }
+   .btn{
+       font-size: 18px;
+        
+    }
+}
+
+@media (min-width:0px) and (max-width:394px){
+    h1{
+        font-size: 22px;
+        
+
+    }
+    nav{
+        height: 12vh;
+    }
+}
